@@ -1,1 +1,25 @@
-{}
+{
+  "salmaalfsatwi__math": {
+    "username": "salmaalfsatwi",
+    "subject_id": "math",
+    "messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-08T12:20:50.648920+00:00"
+      }
+    ],
+    "full_messages": [
+      {
+        "role": "user",
+        "content": "اشرح لي الفصل الأول",
+        "timestamp": "2026-05-08T12:20:50.648920+00:00"
+      }
+    ],
+    "summary": "",
+    "message_count": 0,
+    "last_file": null,
+    "subject": "math",
+    "saved_at": "2026-05-08T12:59:30.096390"
+  }
+}
