@@ -25,5 +25,24 @@
       "biology"
     ],
     "server_num": 20
+  },
+  "Asawer": {
+    "username": "Asawer",
+    "password": "AS7ASAWERRONALDOa.",
+    "student_type": "أدبي",
+    "telegram_user_id": "5027331782",
+    "telegram_username": null,
+    "telegram_first_name": "𝘈𝘴𝘢𝘸𝘦𝘳",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_39.jpg",
+    "session_id": "4eb589fa-1e09-4e0b-98e8-ad57ca1e744b",
+    "created_at": "2026-05-10T17:30:22.769958",
+    "verified": true,
+    "last_login": "2026-05-10T17:30:25.986235",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "sociology"
+    ],
+    "server_num": 20
   }
 }
